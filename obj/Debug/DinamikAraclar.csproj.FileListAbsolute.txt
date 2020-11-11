@@ -1,0 +1,12 @@
+C:\Users\Eren\source\repos\DinamikAraclar\bin\Debug\DinamikAraclar.exe.config
+C:\Users\Eren\source\repos\DinamikAraclar\bin\Debug\DinamikAraclar.exe
+C:\Users\Eren\source\repos\DinamikAraclar\bin\Debug\DinamikAraclar.pdb
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.Form1.resources
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.Properties.Resources.resources
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.exe
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.pdb
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.Form2.resources
+C:\Users\Eren\source\repos\DinamikAraclar\obj\Debug\DinamikAraclar.Form3.resources
